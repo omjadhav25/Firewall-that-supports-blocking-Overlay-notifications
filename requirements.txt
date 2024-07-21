@@ -1,0 +1,3 @@
+pydivert
+colorama
+cx-Freeze

@@ -1,0 +1,79 @@
+[2024-07-21 14:45:39.930874] Booting up program.
+[2024-07-21 14:45:39.962114] Logger initialized.
+[2024-07-21 14:45:39.977742] Logger process is now running.
+[2024-07-21 14:45:39.977742] Loaded config settings: [True, False, False, True, False]
+[2024-07-21 14:45:39.977742] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 14:45:39.977742] Logger not supplied to FilterSettings.
+[2024-07-21 14:45:39.977742] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 14:45:39.993361] Menu state has changed: None -> (True, False, False, True, False)
+[2024-07-21 14:45:39.993361] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 14:45:39.993361] Logger not supplied to FilterSettings.
+[2024-07-21 14:45:39.993361] Starting network filter...
+[2024-07-21 14:45:39.993361] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 14:45:39.993361] Logger not supplied to FilterSettings.
+[2024-07-21 14:45:39.993361] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 14:45:40.008977] Started network filter.
+[2024-07-21 14:45:49.215280] Menu state has changed: (True, False, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 14:45:49.215280] Stopping network filter...
+[2024-07-21 14:45:49.215280] Successfully stopped network filter.
+[2024-07-21 14:45:50.296346] Menu state has changed: (False, False, False, True, False) -> (True, False, False, True, False)
+[2024-07-21 14:45:50.296346] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 14:45:50.296346] Logger not supplied to FilterSettings.
+[2024-07-21 14:45:50.296346] Starting network filter...
+[2024-07-21 14:45:50.296346] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 14:45:50.296346] Logger not supplied to FilterSettings.
+[2024-07-21 14:45:50.296346] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 14:45:50.311909] Started network filter.
+[2024-07-21 14:48:53.632882] User attempted to run program without Administrator permissions
+[2024-07-21 15:15:02.427273] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:15:02.427273] Logger not supplied to FilterSettings.
+[2024-07-21 15:15:02.427273] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:15:02.442895] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:15:02.442895] Logger not supplied to FilterSettings.
+[2024-07-21 15:15:02.458517] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:15:02.458517] Logger not supplied to FilterSettings.
+[2024-07-21 15:15:02.458517] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:15:27.703193] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:15:27.703193] Logger not supplied to FilterSettings.
+[2024-07-21 15:15:27.703193] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:15:27.718814] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:15:27.718814] Logger not supplied to FilterSettings.
+[2024-07-21 15:15:27.734435] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:15:27.734435] Logger not supplied to FilterSettings.
+[2024-07-21 15:15:27.734435] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:17:19.386472] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:17:19.386472] Logger not supplied to FilterSettings.
+[2024-07-21 15:17:19.386472] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:17:19.402095] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:17:19.402095] Logger not supplied to FilterSettings.
+[2024-07-21 15:17:19.402095] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:17:19.402095] Logger not supplied to FilterSettings.
+[2024-07-21 15:17:19.402095] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:17:25.602738] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:17:25.602738] Logger not supplied to FilterSettings.
+[2024-07-21 15:17:25.615692] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:17:25.616702] Logger not supplied to FilterSettings.
+[2024-07-21 15:17:25.617688] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:21:01.473978] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:01.473978] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:01.473978] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:21:01.489565] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:01.489565] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:01.489565] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:01.489565] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:01.489565] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:21:16.575791] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:16.575791] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:16.575791] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:16.575791] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:16.575791] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:21:19.653056] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:19.653056] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:19.653056] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:19.653056] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:19.653056] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)
+[2024-07-21 15:21:19.699903] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:19.699903] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:19.699903] Filter flags: FilterFlags.DROP_CLIENT_POST
+[2024-07-21 15:21:19.699903] Logger not supplied to FilterSettings.
+[2024-07-21 15:21:19.699903] Using filter: (tcp.DstPort == 80 and ip.DstAddr == 192.81.241.197)

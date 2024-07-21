@@ -1,0 +1,81 @@
+[2024-07-21 15:15:02.396030] Booting up program.
+[2024-07-21 15:15:02.427273] Logger initialized.
+[2024-07-21 15:15:02.427273] Logger process is now running.
+[2024-07-21 15:15:02.427273] Loaded config settings: [True, False, False, True, False]
+[2024-07-21 15:15:02.442895] Menu state has changed: None -> (True, False, False, True, False)
+[2024-07-21 15:15:02.442895] Starting network filter...
+[2024-07-21 15:15:02.458517] Started network filter.
+[2024-07-21 15:15:02.458517] Oops! Looks like the program crashed. Reason: name 'UI_MSG_PREFIX' is not defined
+[2024-07-21 15:15:02.474137] Traceback (most recent call last):
+[2024-07-21 15:15:02.474137]   File "E:\CS Project\Firewall that supports blocking Overlay notifications\main.py", line 166, in <module>
+[2024-07-21 15:15:02.474137]     main()
+[2024-07-21 15:15:02.474137]   File "E:\CS Project\Firewall that supports blocking Overlay notifications\main.py", line 117, in main
+[2024-07-21 15:15:02.474137]     print(UI_MSG_PREFIX+Menu.construct_print_options(Menu.MAIN_OPTIONS))
+[2024-07-21 15:15:02.474137]           ^^^^^^^^^^^^^
+[2024-07-21 15:15:02.474137] NameError: name 'UI_MSG_PREFIX' is not defined
+[2024-07-21 15:15:02.474137] 
+[2024-07-21 15:15:27.671949] Booting up program.
+[2024-07-21 15:15:27.687570] Logger initialized.
+[2024-07-21 15:15:27.703193] Logger process is now running.
+[2024-07-21 15:15:27.703193] Loaded config settings: [True, False, False, True, False]
+[2024-07-21 15:15:27.718814] Menu state has changed: None -> (True, False, False, True, False)
+[2024-07-21 15:15:27.734435] Starting network filter...
+[2024-07-21 15:15:27.734435] Started network filter.
+[2024-07-21 15:15:27.734435] Oops! Looks like the program crashed. Reason: name 'interval' is not defined
+[2024-07-21 15:15:27.734435] Traceback (most recent call last):
+[2024-07-21 15:15:27.734435]   File "E:\CS Project\Firewall that supports blocking Overlay notifications\main.py", line 166, in <module>
+[2024-07-21 15:15:27.734435]     main()
+[2024-07-21 15:15:27.734435]   File "E:\CS Project\Firewall that supports blocking Overlay notifications\main.py", line 119, in main
+[2024-07-21 15:15:27.734435]     option = wait_for_valid_key(Menu.MAIN_OPTIONS)          # Wait until we get a valid option
+[2024-07-21 15:15:27.734435]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2024-07-21 15:15:27.734435]   File "E:\CS Project\Firewall that supports blocking Overlay notifications\main.py", line 53, in wait_for_valid_key
+[2024-07-21 15:15:27.734435]     sleep(interval)
+[2024-07-21 15:15:27.734435]           ^^^^^^^^
+[2024-07-21 15:15:27.734435] NameError: name 'interval' is not defined
+[2024-07-21 15:15:27.734435] 
+[2024-07-21 15:17:19.355229] Booting up program.
+[2024-07-21 15:17:19.370850] Logger initialized.
+[2024-07-21 15:17:19.370850] Logger process is now running.
+[2024-07-21 15:17:19.386472] Loaded config settings: [True, False, False, True, False]
+[2024-07-21 15:17:19.402095] Menu state has changed: None -> (True, False, False, True, False)
+[2024-07-21 15:17:19.402095] Starting network filter...
+[2024-07-21 15:17:19.402095] Started network filter.
+[2024-07-21 15:17:22.415856] User selected OPEN_DONATION_URL...
+[2024-07-21 15:17:25.602738] Menu state has changed: (True, False, False, True, False) -> (True, False, False, True, False)
+[2024-07-21 15:17:25.602738] Starting network filter...
+[2024-07-21 15:17:25.625667] Started network filter.
+[2024-07-21 15:19:29.040431] User attempted to run program without Administrator permissions
+[2024-07-21 15:19:50.630768] User attempted to run program without Administrator permissions
+[2024-07-21 15:21:01.442701] Booting up program.
+[2024-07-21 15:21:01.458323] Logger initialized.
+[2024-07-21 15:21:01.473978] Logger process is now running.
+[2024-07-21 15:21:01.473978] Loaded config settings: [True, False, False, True, False]
+[2024-07-21 15:21:01.489565] Menu state has changed: None -> (True, False, False, True, False)
+[2024-07-21 15:21:01.489565] Starting network filter...
+[2024-07-21 15:21:01.489565] Started network filter.
+[2024-07-21 15:21:16.560183] Menu state has changed: (True, False, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 15:21:16.560183] Stopping network filter...
+[2024-07-21 15:21:16.560183] Successfully stopped network filter.
+[2024-07-21 15:21:16.575791] Menu state has changed: (False, False, False, True, False) -> (True, False, False, True, False)
+[2024-07-21 15:21:16.575791] Starting network filter...
+[2024-07-21 15:21:16.591427] Started network filter.
+[2024-07-21 15:21:16.591427] Menu state has changed: (True, False, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 15:21:16.591427] Stopping network filter...
+[2024-07-21 15:21:16.591427] Successfully stopped network filter.
+[2024-07-21 15:21:19.637418] Menu state has changed: (False, False, False, True, False) -> (True, False, False, True, False)
+[2024-07-21 15:21:19.653056] Starting network filter...
+[2024-07-21 15:21:19.653056] Started network filter.
+[2024-07-21 15:21:19.684282] Menu state has changed: (True, False, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 15:21:19.684282] Stopping network filter...
+[2024-07-21 15:21:19.684282] Successfully stopped network filter.
+[2024-07-21 15:21:19.699903] Menu state has changed: (False, False, False, True, False) -> (True, False, False, True, False)
+[2024-07-21 15:21:19.699903] Starting network filter...
+[2024-07-21 15:21:19.699903] Started network filter.
+[2024-07-21 15:21:25.744425] Menu state has changed: (True, False, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 15:21:25.744425] Stopping network filter...
+[2024-07-21 15:21:25.744425] Successfully stopped network filter.
+[2024-07-21 15:22:01.851308] Menu state has changed: (False, False, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 15:22:10.896303] Menu state has changed: (False, False, False, True, False) -> (False, True, False, True, False)
+[2024-07-21 15:22:13.948402] Menu state has changed: (False, True, False, True, False) -> (False, False, False, True, False)
+[2024-07-21 15:22:16.969624] User selected OPEN_DONATION_URL...
+[2024-07-21 15:22:20.200872] Menu state has changed: (False, False, False, True, False) -> (False, False, False, True, False)
